@@ -1,0 +1,9 @@
+package hackerearth;
+
+public class Log 
+{
+	public static void main(String[] args) {
+		System.out.println(Math.log(16)/Math.log(2));
+	
+	}
+}
